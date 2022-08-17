@@ -1,9 +1,25 @@
 
 body{
-     background-color: rgb(253, 251, 251) ;
+     background-color: rgb(253, 251, 251);
+     padding: 70px;
 }
 
 #cabecalho{
      position:fixed;
      top:0px;       
 }
+
+a{
+    font-style: italic;text-decoration: none;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 600;
+    background-color:#14213D;
+    color:#E5E5E5;
+    padding: 10px 10px;
+    border-radius: 8px;
+    margin: 20px;
+    display: block;
+    text-align: center;
+}
+
