@@ -23,3 +23,8 @@ a{
     text-align: center;
 }
 
+article, aside{ 
+    font-family: monospace;
+    line-height: 40px;
+}
+
