@@ -1,4 +1,3 @@
-
 body {
   background-color: rgb(253, 251, 251);
   padding: 70px;
@@ -6,7 +5,7 @@ body {
 
 #cabecalho {
   position: fixed;
-  top: 0%;      
+  top: 0%;
 }
 
 a {
@@ -14,8 +13,8 @@ a {
   text-decoration: none;
   font-size: 30px;
   font-weight: 600;
-  background-color:aqua;
-  color:black;
+  background-color: aqua;
+  color: black;
   padding: 10px;
   border-radius: 8px;
   margin: 20px;
@@ -23,7 +22,7 @@ a {
   text-align: center;
 }
 
-article ,aside {
+article , aside {
   font-family: monospace;
   line-height: 20px;
   float: left;
